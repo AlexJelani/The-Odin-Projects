@@ -22,3 +22,6 @@
 [submodule "blogpage_test"]
 	path = blogpage_test
 	url = https://github.com/AlexJelani/blogpage_test
+[submodule "git_test"]
+	path = git_test
+	url = https://github.com/AlexJelani/git_test
