@@ -7,3 +7,6 @@
 [submodule "rock-scissors-paper-game"]
 	path = rock-scissors-paper-game
 	url = https://github.com/AlexJelani/rock-scissors-paper-game
+[submodule "math-game"]
+	path = math-game
+	url = https://github.com/AlexJelani/math-game
