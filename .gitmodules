@@ -19,3 +19,6 @@
 [submodule "odin-recipes"]
 	path = odin-recipes
 	url = https://github.com/AlexJelani/odin-recipes
+[submodule "blogpage_test"]
+	path = blogpage_test
+	url = https://github.com/AlexJelani/blogpage_test
