@@ -4,3 +4,6 @@
 [submodule "odin-calculator"]
 	path = odin-calculator
 	url = https://github.com/AlexJelani/odin-calculator
+[submodule "rock-scissors-paper-game"]
+	path = rock-scissors-paper-game
+	url = https://github.com/AlexJelani/rock-scissors-paper-game
