@@ -10,3 +10,6 @@
 [submodule "math-game"]
 	path = math-game
 	url = https://github.com/AlexJelani/math-game
+[submodule "odin-etch-a-sketch"]
+	path = odin-etch-a-sketch
+	url = https://github.com/AlexJelani/odin-etch-a-sketch
