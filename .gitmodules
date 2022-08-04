@@ -16,3 +16,6 @@
 [submodule "odin-landing-page"]
 	path = odin-landing-page
 	url = https://github.com/AlexJelani/odin-landing-page
+[submodule "odin-recipes"]
+	path = odin-recipes
+	url = https://github.com/AlexJelani/odin-recipes
