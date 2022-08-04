@@ -1,3 +1,6 @@
 [submodule "online-portfolio"]
 	path = online-portfolio
 	url = https://github.com/AlexJelani/online-portfolio
+[submodule "odin-calculator"]
+	path = odin-calculator
+	url = https://github.com/AlexJelani/odin-calculator
